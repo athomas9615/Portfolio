@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stock", "Stock\Stock.csproj", "{C67579A0-F0CE-48C7-B758-86E2ED89A472}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Map", "Map\Map.csproj", "{F42A8E8D-2B72-4E93-A117-3ABF7A09D0DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C67579A0-F0CE-48C7-B758-86E2ED89A472}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{C67579A0-F0CE-48C7-B758-86E2ED89A472}.Debug|x86.ActiveCfg = Debug|x86
+		{C67579A0-F0CE-48C7-B758-86E2ED89A472}.Debug|x86.Build.0 = Debug|x86
+		{C67579A0-F0CE-48C7-B758-86E2ED89A472}.Release|Any CPU.ActiveCfg = Release|x86
+		{C67579A0-F0CE-48C7-B758-86E2ED89A472}.Release|x86.ActiveCfg = Release|x86
+		{C67579A0-F0CE-48C7-B758-86E2ED89A472}.Release|x86.Build.0 = Release|x86
+		{F42A8E8D-2B72-4E93-A117-3ABF7A09D0DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F42A8E8D-2B72-4E93-A117-3ABF7A09D0DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F42A8E8D-2B72-4E93-A117-3ABF7A09D0DF}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F42A8E8D-2B72-4E93-A117-3ABF7A09D0DF}.Debug|x86.Build.0 = Debug|Any CPU
+		{F42A8E8D-2B72-4E93-A117-3ABF7A09D0DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F42A8E8D-2B72-4E93-A117-3ABF7A09D0DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F42A8E8D-2B72-4E93-A117-3ABF7A09D0DF}.Release|x86.ActiveCfg = Release|Any CPU
+		{F42A8E8D-2B72-4E93-A117-3ABF7A09D0DF}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
